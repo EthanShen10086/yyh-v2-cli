@@ -9,9 +9,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["vue","vue2","vue2.7"],
+  "author": "ethanshen",
+  "homepage": "https://github.com/EthanShen10086",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EthanShen10086/yyh-v2-cli"
+  },
+  "license": "MIT",
   "dependencies": {
     "commander": "^12.1.0",
     "download-git-repo": "^3.0.2",
