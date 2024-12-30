@@ -9,7 +9,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["vue","vue2","vue2.7","element-ui"],
+  "keywords": [
+    "vue",
+    "vue2",
+    "vue2.7",
+    "element-ui"
+  ],
   "author": "ethanshen",
   "homepage": "https://github.com/EthanShen10086",
   "repository": {
@@ -21,6 +26,8 @@
     "commander": "^12.1.0",
     "download-git-repo": "^3.0.2",
     "ejs": "^3.1.10",
-    "open": "7.3.0"
+    "inquirer": "^12.3.0",
+    "open": "7.3.0",
+    "ora": "^8.1.1"
   }
 }

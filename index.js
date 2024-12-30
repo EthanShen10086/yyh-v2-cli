@@ -1,6 +1,6 @@
 #! /usr/bin/env node
 // 在用户环境变量里面找到node的路径，然后执行index.js文件
-// 使用npm link（请注意不是pnpm link） 將 test-self-cli 链接到环境变量 便于后续识别
+// 使用npm link【npm link 创建软连接】（pnpm link需要添加参数） 將 test-self-cli 链接到环境变量 便于后续识别
 
 const { Command } = require('commander');
 const program = new Command();
